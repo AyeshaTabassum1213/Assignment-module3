@@ -1,0 +1,27 @@
+/* Navbar Styles */
+.navbar {
+  background-color: #fff; /* Set the background color for the navbar */
+  margin-bottom: 0; /* Remove the default margin at the bottom */
+  border: none; /* Remove the default border */
+}
+
+.navbar .navbar-brand {
+  margin-left: 15px; /* Add a margin to the left side of the brand text */
+}
+
+/* Page Heading Styles */
+.page-heading {
+  margin-top: 30px; /* Add some top margin to the page heading */
+  margin-bottom: 30px; /* Add some bottom margin to the page heading */
+}
+
+/* Tall Section Styles */
+.tall-section {
+  background-color: #f8f8f8; /* Set the background color for the tall section */
+  padding-top: 20px; /* Add some top padding to the tall section */
+  padding-bottom: 20px; /* Add some bottom padding to the tall section */
+}
+
+.tall-section h3 {
+  text-align: center; /* Center the section headings */
+}
